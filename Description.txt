@@ -1,0 +1,2 @@
+This repository stores the Jupyter notebooks
+  given in the CSU CS345 course. 
